@@ -1,0 +1,56 @@
+[
+  {
+    "pergunta": "No JavaScript, qual das opções é a forma correta de atribuir o resultado de uma MULTIPLICAÇÃO à uma variável?",
+    "respostas": [
+      { "opcao": "valor = 5 * 3", "correto": true },
+      { "opcao": "valor == 5 * 3", "correto": false },
+      { "opcao": "valor = 5 x 3", "correto": false },
+      { "opcao": "valor = 5 / 3", "correto": false }
+    ]
+  },
+    {
+    "pergunta": "No JavaScript, como se escreve corretamente o cabeçalho de um condicional?",
+    "respostas": [
+      { "opcao": "if (a == b)", "correto": true },
+      { "opcao": "if (a += b)", "correto": false },
+      { "opcao": "if (a AND b)", "correto": false },
+      { "opcao": "if (a b igualzinho)", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "No JavaScript, qual a sintaxe correta do laço de repetição 'enquanto'?",
+    "respostas": [
+      { "opcao": "while", "correto": true },
+      { "opcao": "what", "correto": false },
+      { "opcao": "which", "correto": false },
+      { "opcao": "wai", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual destes é um tipo de variável que pode armazenar mais de um valor ao mesmo tempo?",
+    "respostas": [
+      { "opcao": "array", "correto": true },
+      { "opcao": "float", "correto": false },
+      { "opcao": "boolean", "correto": false },
+      { "opcao": "bolsa", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual o tipo de estrutura de arquivo que podemos usar para armazenar valores de forma organizada para usarmos na programação?",
+    "respostas": [
+      { "opcao": "JSON", "correto": true },
+      { "opcao": "JPG", "correto": false },
+      { "opcao": "dll", "correto": false },
+      { "opcao": "Planilha", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é a maior plataforma de tecnologia do Brasil?",
+    "respostas": [
+      { "opcao": "CodeBr", "correto": false },
+      { "opcao": "NerdCursos", "correto": false },
+      { "opcao": "DevTupiniquim", "correto": false },
+      { "opcao": "Alura", "correto": true }
+    ]
+  }
+]
