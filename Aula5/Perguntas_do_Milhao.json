@@ -1,0 +1,47 @@
+[
+  {
+    "pergunta": "Qual destas enzimas NÃO utiliza um mecanismo de catálise por íon metálico em sua função biológica primária?",
+    "respostas": [
+      { "opcao": "Anidrase carbônica (CA)", "correto": false },
+      { "opcao": "Superóxido dismutase (SOD)", "correto": false },
+      { "opcao": "DNA polimerase β (Polβ)", "correto": false },
+      { "opcao": "Hexoquinase (HK)", "correto": true }
+    ]
+  },
+  {
+    "pergunta": "Qual destes episódios de 'The Twilight Zone' (original) foi censurado por 20 anos nos EUA devido a conteúdo considerado extremo?",
+    "respostas": [
+      { "opcao": "The Eye of the Beholder", "correto": false },
+      { "opcao": "The Shelter", "correto": false },
+      { "opcao": "The Howling Man", "correto": false },
+      { "opcao": "The Encounter", "correto": true }
+    ]
+  },
+  {
+    "pergunta": "Qual destes fenômenos NÃO depende diretamente do Efeito Casimir para sua explicação?",
+    "respostas": [
+      { "opcao": "Força de van der Waals", "correto": false },
+      { "opcao": "Levitação quântica", "correto": false },
+      { "opcao": "Supercondutividade", "correto": true },
+      { "opcao": "Adesão gecko", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual destes livros de Clarice Lispector foi originalmente escrito em inglês e depois traduzido pela autora?",
+    "respostas": [
+      { "opcao": "A Hora da Estrela", "correto": false },
+      { "opcao": "Água Viva", "correto": false },
+      { "opcao": "O Lustre", "correto": false },
+      { "opcao": "A Maçã no Escuro", "correto": true }
+    ]
+  },
+  {
+    "pergunta": "Qual destas rebeliões coloniais NÃO teve participação direta de líderes religiosos?",
+    "respostas": [
+      { "opcao": "Guerra dos Emboabas", "correto": true },
+      { "opcao": "Revolta de Beckman", "correto": false },
+      { "opcao": "Sabinada", "correto": false },
+      { "opcao": "Revolta do Malês", "correto": false }
+    ]
+  }
+]
