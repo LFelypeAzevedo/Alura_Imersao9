@@ -1,0 +1,92 @@
+[
+  {
+    "pergunta": "Qual destes elementos químicos é um gás nobre?",
+    "respostas": [
+      { "opcao": "Ferro (Fe)", "correto": false },
+      { "opcao": "Hélio (He)", "correto": true },
+      { "opcao": "Sódio (Na)", "correto": false },
+      { "opcao": "Cálcio (Ca)", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Em que século o Brasil foi descoberto pelos portugueses?",
+    "respostas": [
+      { "opcao": "Século XIV", "correto": false },
+      { "opcao": "Século XV", "correto": false },
+      { "opcao": "Século XVI", "correto": true },
+      { "opcao": "Século XVII", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do tratado que encerrou a Primeira Guerra Mundial?",
+    "respostas": [
+      { "opcao": "Tratado de Versalhes", "correto": true },
+      { "opcao": "Tratado de Tordesilhas", "correto": false },
+      { "opcao": "Tratado de Berlim", "correto": false },
+      { "opcao": "Tratado de Roma", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual país não faz parte da União Europeia?",
+    "respostas": [
+      { "opcao": "Noruega", "correto": true },
+      { "opcao": "França", "correto": false },
+      { "opcao": "Alemanha", "correto": false },
+      { "opcao": "Itália", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Quem foi o primeiro presidente do Brasil após o regime militar?",
+    "respostas": [
+      { "opcao": "Fernando Collor", "correto": false },
+      { "opcao": "Tancredo Neves", "correto": false },
+      { "opcao": "José Sarney", "correto": true },
+      { "opcao": "Itamar Franco", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é a unidade básica de informação na computação?",
+    "respostas": [
+      { "opcao": "Byte", "correto": false },
+      { "opcao": "Bit", "correto": true },
+      { "opcao": "Pixel", "correto": false },
+      { "opcao": "Hertz", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual dessas obras NÃO foi escrita por Machado de Assis?",
+    "respostas": [
+      { "opcao": "Dom Casmurro", "correto": false },
+      { "opcao": "Memórias Póstumas de Brás Cubas", "correto": false },
+      { "opcao": "O Alienista", "correto": false },
+      { "opcao": "Vidas Secas", "correto": true }
+    ]
+  },
+  {
+    "pergunta": "Qual é o segundo maior país do mundo em área territorial?",
+    "respostas": [
+      { "opcao": "Estados Unidos", "correto": false },
+      { "opcao": "China", "correto": false },
+      { "opcao": "Canadá", "correto": true },
+      { "opcao": "Brasil", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Em que ano foi lançado o primeiro iPhone?",
+    "respostas": [
+      { "opcao": "2005", "correto": false },
+      { "opcao": "2007", "correto": true },
+      { "opcao": "2010", "correto": false },
+      { "opcao": "2003", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual desses compositors é conhecido como 'O Rei do Baião'?",
+    "respostas": [
+      { "opcao": "Luiz Gonzaga", "correto": true },
+      { "opcao": "Tom Jobim", "correto": false },
+      { "opcao": "Villa-Lobos", "correto": false },
+      { "opcao": "Chico Buarque", "correto": false }
+    ]
+  }
+]
