@@ -1,0 +1,92 @@
+[
+  {
+    "pergunta": "Qual filósofo grego foi tutor de Alexandre, o Grande?",
+    "respostas": [
+      { "opcao": "Sócrates", "correto": false },
+      { "opcao": "Platão", "correto": false },
+      { "opcao": "Aristóteles", "correto": true },
+      { "opcao": "Pitágoras", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Em qual ano ocorreu a Revolução Russa?",
+    "respostas": [
+      { "opcao": "1905", "correto": false },
+      { "opcao": "1917", "correto": true },
+      { "opcao": "1923", "correto": false },
+      { "opcao": "1898", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual destas obras NÃO foi escrita por William Shakespeare?",
+    "respostas": [
+      { "opcao": "Hamlet", "correto": false },
+      { "opcao": "Macbeth", "correto": false },
+      { "opcao": "Fausto", "correto": true },
+      { "opcao": "Otelo", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital da Nova Zelândia?",
+    "respostas": [
+      { "opcao": "Auckland", "correto": false },
+      { "opcao": "Christchurch", "correto": false },
+      { "opcao": "Wellington", "correto": true },
+      { "opcao": "Queenstown", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual cientista formulou a Teoria da Relatividade Geral?",
+    "respostas": [
+      { "opcao": "Isaac Newton", "correto": false },
+      { "opcao": "Niels Bohr", "correto": false },
+      { "opcao": "Albert Einstein", "correto": true },
+      { "opcao": "Stephen Hawking", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual destes países NÃO faz parte do BRICS?",
+    "respostas": [
+      { "opcao": "Índia", "correto": false },
+      { "opcao": "Argentina", "correto": true },
+      { "opcao": "China", "correto": false },
+      { "opcao": "África do Sul", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do processo de divisão celular que resulta em células haploides?",
+    "respostas": [
+      { "opcao": "Mitose", "correto": false },
+      { "opcao": "Meiose", "correto": true },
+      { "opcao": "Clivagem", "correto": false },
+      { "opcao": "Fissão binária", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Em qual oceano está localizado o arquipélago de Galápagos?",
+    "respostas": [
+      { "opcao": "Oceano Atlântico", "correto": false },
+      { "opcao": "Oceano Índico", "correto": false },
+      { "opcao": "Oceano Pacífico", "correto": true },
+      { "opcao": "Oceano Ártico", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual destas pinturas NÃO foi feita por Vincent van Gogh?",
+    "respostas": [
+      { "opcao": "Noite Estrelada", "correto": false },
+      { "opcao": "Os Girassóis", "correto": false },
+      { "opcao": "O Grito", "correto": true },
+      { "opcao": "O Quarto em Arles", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é o nome do tratado que estabeleceu a União Europeia?",
+    "respostas": [
+      { "opcao": "Tratado de Roma", "correto": false },
+      { "opcao": "Tratado de Maastricht", "correto": true },
+      { "opcao": "Tratado de Lisboa", "correto": false },
+      { "opcao": "Tratado de Versalhes", "correto": false }
+    ]
+  }
+]
