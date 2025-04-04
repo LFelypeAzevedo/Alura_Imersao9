@@ -1,0 +1,92 @@
+[
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "respostas": [
+      { "opcao": "Terra", "correto": false },
+      { "opcao": "Júpiter", "correto": true },
+      { "opcao": "Marte", "correto": false },
+      { "opcao": "Vênus", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Quem pintou a obra 'Mona Lisa'?",
+    "respostas": [
+      { "opcao": "Vincent van Gogh", "correto": false },
+      { "opcao": "Pablo Picasso", "correto": false },
+      { "opcao": "Leonardo da Vinci", "correto": true },
+      { "opcao": "Salvador Dalí", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é a capital do Brasil?",
+    "respostas": [
+      { "opcao": "Rio de Janeiro", "correto": false },
+      { "opcao": "São Paulo", "correto": false },
+      { "opcao": "Brasília", "correto": true },
+      { "opcao": "Salvador", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Quantos lados tem um triângulo?",
+    "respostas": [
+      { "opcao": "2", "correto": false },
+      { "opcao": "3", "correto": true },
+      { "opcao": "4", "correto": false },
+      { "opcao": "5", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual desses animais é um mamífero?",
+    "respostas": [
+      { "opcao": "Tubarão", "correto": false },
+      { "opcao": "Pinguim", "correto": false },
+      { "opcao": "Gato", "correto": true },
+      { "opcao": "Cobra", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "respostas": [
+      { "opcao": "1969", "correto": true },
+      { "opcao": "1975", "correto": false },
+      { "opcao": "1982", "correto": false },
+      { "opcao": "1955", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é o oceano que banha o litoral brasileiro?",
+    "respostas": [
+      { "opcao": "Oceano Índico", "correto": false },
+      { "opcao": "Oceano Atlântico", "correto": true },
+      { "opcao": "Oceano Pacífico", "correto": false },
+      { "opcao": "Oceano Ártico", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Quem escreveu 'Dom Quixote'?",
+    "respostas": [
+      { "opcao": "Machado de Assis", "correto": false },
+      { "opcao": "Miguel de Cervantes", "correto": true },
+      { "opcao": "William Shakespeare", "correto": false },
+      { "opcao": "Jorge Amado", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do oxigênio?",
+    "respostas": [
+      { "opcao": "Ox", "correto": false },
+      { "opcao": "O", "correto": true },
+      { "opcao": "Om", "correto": false },
+      { "opcao": "Og", "correto": false }
+    ]
+  },
+  {
+    "pergunta": "Qual time de futebol é conhecido como 'Time da Virada'?",
+    "respostas": [
+      { "opcao": "Flamengo", "correto": false },
+      { "opcao": "Corinthians", "correto": true },
+      { "opcao": "Palmeiras", "correto": false },
+      { "opcao": "São Paulo", "correto": false }
+    ]
+  }
+]
